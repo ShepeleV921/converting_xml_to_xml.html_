@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_List/07/Common.xsl"?>
+<Extract>
+    <eDocument CodeType="112" Version="07" Scope="GKN">
+        <Sender Kod="00.0.4.195"
+                Name="ФГИС ЕГРН"
+                Region="99"
+                Date_Upload="2023-01-30"
+                Appointment="Государственный регистратор"
+                />
+        <Recipient Kod="00.0.4.111" Name="Леонова Елена Анатольевна" />
+    </eDocument>
+    <ReestrExtract>
+        <DeclarAttribute ID_KUVI="0"
+                         ExtractTypeCode="020000"
+                         ExtractTypeText="Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости"
+                         ExtractNumber="99/2023/516698554"
+                         ExtractDate="30.01.2023"
+                         RequeryNumber="80-280497254"
+                         RequeryDate="30.01.2023"
+                         ExtractCount="1"
+                         NoticeCount="0"
+                         RefuseCount="0"
+                         Registrator="ФГИС ЕГРН">
+            <ReceivName>Леонова Елена Анатольевна</ReceivName>
+            <ReceivAdress>не указан</ReceivAdress>
+        </DeclarAttribute>
+            <ExtractObjectRight>
+        <HeadContent>
+            <ID_REC_KUVI>0</ID_REC_KUVI>
+            <Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+            <DeptName>ФГИС ЕГРН</DeptName>
+            <ExtractTitle>Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости</ExtractTitle>
+            <Content>На основании запроса от 30.01.2023 г., поступившего на рассмотрение 30.01.2023 г., сообщаем, что в Единый государственный реестр недвижимости внесены записи о государственной регистрации перехода прав на:</Content>
+        </HeadContent>
+                <ExtractObject>
+    <ObjectDesc>
+        <ID_Object>15827905321</ID_Object>
+        <CadastralNumber>61:44:0010307:6037</CadastralNumber>
+        <ObjectType>002002001000</ObjectType>
+        <ObjectTypeText>Здание</ObjectTypeText>
+        <Name>Строение- Магазин, площадью 55.9 кв.м. Литер А</Name>
+        <Assignation_Code>005002000000</Assignation_Code>
+        <Assignation_Code_Text>Нежилое</Assignation_Code_Text>
+        <Area>
+            <Area>55.9</Area>
+            <AreaText>55.9 кв.м</AreaText>
+        <Unit>012002001000</Unit>
+        </Area>
+        <Inv_No>23 А</Inv_No>
+        <Floor>1</Floor>
+        <Address>
+        <Content>Российская Федерация, Ростовская область, городской округ город
+Ростов-на-Дону, город Ростов-на-Дону, проспект Королева, здание 6в</Content>
+        <Region Name="Ростовская область" Code="61"/>
+        <Code_OKATO>60401000000</Code_OKATO>
+        <Code_KLADR>61000001000077900</Code_KLADR>
+        <Postal_Code>344000</Postal_Code>
+    <City Name="Ростов-на-Дону" Type="г" />
+    <Street Name="Королева" Type="пр-кт" />
+    <Level1 Name="6в" Type="д" />
+        <Other>Российская Федерация, городской округ город Ростов-на-Дону</Other>
+        </Address>
+    </ObjectDesc>
+        <Owner OwnerNumber="1">
+    <ID_Subject>2768215835561</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Лазарев Андрей Владимирович</Content>
+        <FIO>
+            <Surname>Лазарев</Surname>
+            <First>Андрей</First>
+            <Patronymic>Владимирович</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="1">
+        <ID_Record>2768215835261</ID_Record>
+        <RegNumber>61-01/44-164/2002-395</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>14.01.2003</RegDate>
+        <EndNumber>61-01/44-32/2003-578</EndNumber>
+        <EndDate>25.02.2003</EndDate>
+    </Registration>
+        <Owner OwnerNumber="2">
+    <ID_Subject>2768215836361</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Писаренко Марина Николаевна</Content>
+        <FIO>
+            <Surname>Писаренко</Surname>
+            <First>Марина</First>
+            <Patronymic>Николаевна</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="2">
+        <ID_Record>2768215835961</ID_Record>
+        <RegNumber>61-01/44-32/2003-578</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>25.02.2003</RegDate>
+        <EndNumber>61-61-01/087/2007-144</EndNumber>
+        <EndDate>01.03.2007</EndDate>
+    </Registration>
+        <Owner OwnerNumber="3">
+    <ID_Subject>2768215834861</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Арутюнян Агван Хоренович</Content>
+        <FIO>
+            <Surname>Арутюнян</Surname>
+            <First>Агван</First>
+            <Patronymic>Хоренович</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="3">
+        <ID_Record>2768215834261</ID_Record>
+        <RegNumber>61-61-01/087/2007-144</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>01.03.2007</RegDate>
+        <EndNumber>61-61-01/118/2010-120</EndNumber>
+        <EndDate>12.04.2010</EndDate>
+    </Registration>
+        <Owner OwnerNumber="4">
+    <ID_Subject>2768215837361</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Орлова Юлия Алексеевна</Content>
+        <FIO>
+            <Surname>Орлова</Surname>
+            <First>Юлия</First>
+            <Patronymic>Алексеевна</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="4">
+        <ID_Record>2768215836761</ID_Record>
+        <RegNumber>61-61-01/118/2010-120</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>12.04.2010</RegDate>
+        <EndNumber>61:44:0010307:6037-61/183/2021-3</EndNumber>
+        <EndDate>04.03.2021</EndDate>
+    </Registration>
+        <Owner OwnerNumber="5">
+    <ID_Subject>2768215838061</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Буряк Татьяна Анатольевна</Content>
+        <FIO>
+            <Surname>Буряк</Surname>
+            <First>Татьяна</First>
+            <Patronymic>Анатольевна</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="5">
+        <ID_Record>2768215837761</ID_Record>
+        <RegNumber>61:44:0010307:6037-61/183/2021-4</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>04.03.2021</RegDate>
+    </Registration>
+                </ExtractObject>
+        <FootContent>
+           <Recipient>Леонова Елена Анатольевна</Recipient>
+           <ExtractDate>30.01.2023</ExtractDate>
+           <Content>Использование сведений, содержащихся в настоящей выписке, способами или в форме, которые наносят ущерб правам и законным интересам правообладателей, влечет ответственность, предусмотренную законодательством Российской Федерации.</Content>
+        </FootContent>
+            </ExtractObjectRight>
+    </ReestrExtract>
+</Extract>

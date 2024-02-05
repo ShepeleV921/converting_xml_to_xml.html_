@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/OKS/07/Common.xsl"?>
+
+<KVOKS xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kvoks/3.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:param="urn://x-artefacts-rosreestr-ru/commons/complex-types/parameters-oks/2.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:ch="urn://x-artefacts-rosreestr-ru/commons/complex-types/cultural-heritage/2.0.1">
+<Realty>
+<Building CadastralNumber="61:46:0011203:3335" State="01"
+DateCreated="2014-03-20"
+>
+<CadastralBlocks>
+<CadastralBlock>61:46:0011203</CadastralBlock>
+</CadastralBlocks>
+<ObjectType>002001002000</ObjectType>
+<ParentCadastralNumbers>
+<CadastralNumber>61:46:0011203:657</CadastralNumber>
+</ParentCadastralNumbers>
+<OldNumbers>
+<num:OldNumber Type="01" Number="33/31" />
+<num:OldNumber Type="02" Number="61:46:01 12 03:0390:33/31/В:0/20496" />
+<num:OldNumber Type="02" Number="61:46:011203:0390:33/31/В:0/20496" />
+</OldNumbers>
+<Name>Жилой дом, площадью 41,1 кв.м, в т.ч. жилой 26 кв.м. Литер В,В1</Name>
+<AssignationBuilding>204002000000</AssignationBuilding>
+<ElementsConstruct>
+<param:Material Wall="061001005000" />
+</ElementsConstruct>
+<Area>41.1</Area>
+<Address>
+<adrs:OKATO>60407000000</adrs:OKATO>
+<adrs:KLADR>61000003000021100</adrs:KLADR>
+<adrs:Region>61</adrs:Region>
+<adrs:City Name="Батайск" Type="г" />
+<adrs:Street Name="Станиславского" Type="ул" />
+<adrs:Level1 Type="д" Value="74" />
+<adrs:Note>Россия, Ростовская обл., г. Батайск, ул. Станиславского, дом №74</adrs:Note>
+</Address>
+<CadastralCost Value="652896.52" Unit="383" />
+<Notes> Сведения о назначении имеют статус «Актуальные незасвидетельствованные». Право (ограничение права, обременение объекта недвижимости) зарегистрировано на данный объект недвижимости с назначениием отсутствует.</Notes>
+</Building>
+</Realty>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2023-01-30</cer:Date>
+<cer:Number>99/2023/516695792</cer:Number>
+</CertificationDoc>
+<CoordSystems>
+<spa:CoordSystem Name="МСК-61" CsId="ID0" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2023-01-30"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="Леонова Елена Анатольевна" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2023/516695792"
+ExtractDate="30.01.2023"
+RequeryNumber="80-280491453"
+RequeryDate="30.01.2023"
+ExtractCount="1"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>Леонова Елена Анатольевна</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 30.01.2023 г., поступившего на рассмотрение 30.01.2023 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<ExtractObject>
+<ObjectRight>
+<Right RightNumber="1">
+<Owner >
+<ID_Subject>2875675294261</ID_Subject>
+<Person>
+<Code_SP>007003000000</Code_SP>
+<Content>Корниенко Николай Викторович</Content>
+<FIO>
+<Surname>Корниенко</Surname>
+<First>Николай</First>
+<Patronymic>Викторович</Patronymic>
+</FIO>
+</Person>
+</Owner>
+<Registration >
+<ID_Record>2875675292561</ID_Record>
+<RegNumber>61-01/46-24/2004-663</RegNumber>
+<Type>001001000000</Type>
+<Name>Собственность, № 61-01/46-24/2004-663 от 15.09.2004</Name>
+<RegDate>15.09.2004</RegDate>
+</Registration>
+<Encumbrance>
+<ID_Record>2875675298661</ID_Record>
+<RegNumber>61:46:0011203:3335-61/192/2022-13</RegNumber>
+<Type>022003000000</Type>
+<Name>Запрещение регистрации</Name>
+<RegDate>19.09.2022</RegDate>
+<Owner >
+<ID_Subject>2875675299061</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Не определено</Content>
+<Name>Не определено</Name>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>2875675298861</ID_Document>
+<Content>&apos;Выписка из Федеральной службы судебных приставов&apos; №353184236/6136 от 15.09.2022, Батайское городское отделение судебных приставов СПИ Максименко Дарья Андреевна</Content>
+<Type_Document>010007004000</Type_Document>
+<Name>Выписка из Федеральной службы судебных приставов</Name>
+<Number>353184236/6136</Number>
+<Date>15.09.2022</Date>
+<IssueOrgan>Батайское городское отделение судебных приставов СПИ Максименко Дарья Андреевна</IssueOrgan>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>2875675294861</ID_Record>
+<RegNumber>61-61-01/017/2013-251</RegNumber>
+<Type>022002000000</Type>
+<Name>Арест</Name>
+<RegDate>08.02.2013</RegDate>
+<Duration>
+<Started>08.02.2013</Started>
+</Duration>
+<DocFound>
+<ID_Document>2875675295061</ID_Document>
+<Content>&apos;Постановление судебного пристава-исполнителя о наложении ареста имущества&apos; от 14.01.2013, Батайский городской отдел Управления Федеральной службы судебных приставов по Ростовской области</Content>
+<Type_Document>010007004000</Type_Document>
+<Name>Постановление судебного пристава-исполнителя о наложении ареста имущества</Name>
+<Number>б/н</Number>
+<Date>14.01.2013</Date>
+<IssueOrgan>Батайский городской отдел Управления Федеральной службы судебных приставов по Ростовской области</IssueOrgan>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>2875675295461</ID_Record>
+<RegNumber>61:46:0011203:3335-61/001/2017-2</RegNumber>
+<Type>022003000000</Type>
+<Name>Запрещение регистрации</Name>
+<RegDate>25.12.2017</RegDate>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>2875675295661</ID_Record>
+<RegNumber>61:46:0011203:3335-61/001/2020-7</RegNumber>
+<Type>022003000000</Type>
+<Name>Запрещение регистрации</Name>
+<RegDate>02.06.2020</RegDate>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>2875675295861</ID_Record>
+<RegNumber>61:46:0011203:3335-61/001/2020-8</RegNumber>
+<Type>022003000000</Type>
+<Name>Запрещение регистрации</Name>
+<RegDate>29.09.2020</RegDate>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>2875675296061</ID_Record>
+<RegNumber>61:46:0011203:3335-61/001/2019-3</RegNumber>
+<Type>022003000000</Type>
+<Name>Запрещение регистрации</Name>
+<RegDate>12.04.2019</RegDate>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>2875675296261</ID_Record>
+<RegNumber>61-61-01/215/2012-378</RegNumber>
+<Type>022002000000</Type>
+<Name>Арест</Name>
+<RegDate>30.05.2012</RegDate>
+<DocFound>
+<ID_Document>2875675296461</ID_Document>
+<Content>&apos;Постановление судебного пристава-исполнителя Батайского городского отдела судебных приставов Управления Федеральной службы судебных приставов по Ростовской области о наложении ареста на объекты недвижимого имущества&apos; от 25.05.2012, Батайский городской отдел Управления Федеральной службы судебных приставов по Ростовской области</Content>
+<Type_Document>010007004000</Type_Document>
+<Name>Постановление судебного пристава-исполнителя Батайского городского отдела судебных приставов Управления Федеральной службы судебных приставов по Ростовской области о наложении ареста на объекты недвижимого имущества</Name>
+<Number>б/н</Number>
+<Date>25.05.2012</Date>
+<IssueOrgan>Батайский городской отдел Управления Федеральной службы судебных приставов по Ростовской области</IssueOrgan>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>2875675296661</ID_Record>
+<RegNumber>61:46:0011203:3335-61/001/2017-1</RegNumber>
+<Type>022003000000</Type>
+<Name>Запрещение регистрации</Name>
+<RegDate>25.12.2017</RegDate>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>2875675298061</ID_Record>
+<RegNumber>61:46:0011203:3335-61/228/2022-12</RegNumber>
+<Type>022003000000</Type>
+<Name>Запрещение регистрации</Name>
+<RegDate>16.09.2022</RegDate>
+<Owner >
+<ID_Subject>2875675298461</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Не определено</Content>
+<Name>Не определено</Name>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>2875675298261</ID_Document>
+<Content>&apos;Выписка из Федеральной службы судебных приставов&apos; №353184794/6136 от 15.09.2022, Батайское городское отделение судебных приставов СПИ Максименко Дарья Андреевна</Content>
+<Type_Document>010007004000</Type_Document>
+<Name>Выписка из Федеральной службы судебных приставов</Name>
+<Number>353184794/6136</Number>
+<Date>15.09.2022</Date>
+<IssueOrgan>Батайское городское отделение судебных приставов СПИ Максименко Дарья Андреевна</IssueOrgan>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>2875675297461</ID_Record>
+<RegNumber>61:46:0011203:3335-61/195/2022-11</RegNumber>
+<Type>022003000000</Type>
+<Name>Запрещение регистрации</Name>
+<RegDate>18.07.2022</RegDate>
+<Owner >
+<ID_Subject>2875675297861</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Не определено</Content>
+<Name>Не определено</Name>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>2875675297661</ID_Document>
+<Content>&apos;Выписка из Федеральной службы судебных приставов&apos; №340742917/6136 от 12.07.2022, Батайское городское отделение судебных приставов СПИ Ляшкова Дарья Олеговна</Content>
+<Type_Document>010007004000</Type_Document>
+<Name>Выписка из Федеральной службы судебных приставов</Name>
+<Number>340742917/6136</Number>
+<Date>12.07.2022</Date>
+<IssueOrgan>Батайское городское отделение судебных приставов СПИ Ляшкова Дарья Олеговна</IssueOrgan>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>2875675296861</ID_Record>
+<RegNumber>61:46:0011203:3335-61/232/2021-9</RegNumber>
+<Type>022003000000</Type>
+<Name>Запрещение регистрации</Name>
+<RegDate>08.09.2021</RegDate>
+<Owner >
+<ID_Subject>2875675297261</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Не определено</Content>
+<Name>Не определено</Name>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>2875675297061</ID_Document>
+<Content>&apos;Выписка из Федеральной службы судебных приставов&apos; №312466274/6136 от 06.09.2021, Батайское городское отделение судебных приставов СПИ Сидоренко Карина Владимировна</Content>
+<Type_Document>010007004000</Type_Document>
+<Name>Выписка из Федеральной службы судебных приставов</Name>
+<Number>312466274/6136</Number>
+<Date>06.09.2021</Date>
+<IssueOrgan>Батайское городское отделение судебных приставов СПИ Сидоренко Карина Владимировна</IssueOrgan>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>2875675299261</ID_Record>
+<RegNumber>61:46:0011203:3335-61/192/2022-14</RegNumber>
+<Type>022003000000</Type>
+<Name>Запрещение регистрации</Name>
+<RegDate>24.10.2022</RegDate>
+<Owner >
+<ID_Subject>2875675299661</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Не определено</Content>
+<Name>Не определено</Name>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>2875675299461</ID_Document>
+<Content>&apos;Выписка из Федеральной службы судебных приставов&apos; №358100123/6136 от 21.10.2022, Батайское городское отделение судебных приставов СПИ Евстратова Светлана Николаевна</Content>
+<Type_Document>010007004000</Type_Document>
+<Name>Выписка из Федеральной службы судебных приставов</Name>
+<Number>358100123/6136</Number>
+<Date>21.10.2022</Date>
+<IssueOrgan>Батайское городское отделение судебных приставов СПИ Евстратова Светлана Николаевна</IssueOrgan>
+</DocFound>
+</Encumbrance>
+</Right>
+<Right RightNumber="2">
+<NoOwner>данные о правообладателе отсутствуют</NoOwner>
+<NoRegistration>не зарегистрировано</NoRegistration>
+<Encumbrance>
+<ID_Record>2875675295261</ID_Record>
+<RegNumber>61:46:0011203:3335-61/001/2019-5</RegNumber>
+<Type>022003000000</Type>
+<Name>Запрещение регистрации</Name>
+<RegDate>16.04.2019</RegDate>
+</Encumbrance>
+</Right>
+<NoShareHolding>не зарегистрировано</NoShareHolding>
+</ObjectRight>
+<RightAssert>данные отсутствуют</RightAssert>
+<RightClaim>данные отсутствуют</RightClaim>
+<RightAgainst>данные отсутствуют</RightAgainst>
+<RightSteal>данные отсутствуют</RightSteal>
+<WithoutThirdParty>данные отсутствуют</WithoutThirdParty>
+<InabilityRegWithoutOwner></InabilityRegWithoutOwner>
+<InabilityRegZU></InabilityRegZU>
+</ExtractObject>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>Леонова Елена Анатольевна</Recipient>
+<ExtractDate>30.01.2023</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KVOKS>
